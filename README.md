@@ -1,2 +1,4 @@
 # ParcoursDS_Projet2
-Analysins educative systems data
+Analysing educative systems data
+
+https://openclassrooms.com/fr/paths/164/projects/627/assignment
